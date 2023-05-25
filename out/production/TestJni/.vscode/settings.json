@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "com_flyby_jni_jnidemo.h": "c"
+    }
+}
